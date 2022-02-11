@@ -24,9 +24,9 @@ In progress...
 
 ## Author
 
-[Alpha]
-[Delta](https://github.com/divyansh-nishad)
-[Gamma](https://github.com/godofgeeks23)
-[Omega](https://github.com/prajeshElEvEn)
-[Sigma]
-[Veto](https://github.com/ayush23719)
+- Alpha
+- [Delta](https://github.com/divyansh-nishad)
+- [Gamma](https://github.com/godofgeeks23)
+- [Omega](https://github.com/prajeshElEvEn)
+- Sigma
+- [Veto](https://github.com/ayush23719)
