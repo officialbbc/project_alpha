@@ -1,0 +1,35 @@
+@import "./variables";
+
+.navbar {
+    background-color: $secondaryBgcolor;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 10rem;
+    // position: fixed;
+
+    .name .brand-name {
+        text-decoration: none;
+        color: $primarytextcolor;
+        font-size: 1rem;
+        font-weight: 900;
+        &:hover {
+            color: $primaryBgColor;
+        }
+    }
+    .nav {
+        display: flex;
+        gap: 8rem;
+        list-style: none;
+    }
+    .nav-item {
+        color: $primarytextcolor;
+        text-decoration: none;
+        &:hover {
+            color: $primaryBgColor;
+        }
+        &:active {
+            border-bottom: 1px solid white;
+        }
+    }
+}
